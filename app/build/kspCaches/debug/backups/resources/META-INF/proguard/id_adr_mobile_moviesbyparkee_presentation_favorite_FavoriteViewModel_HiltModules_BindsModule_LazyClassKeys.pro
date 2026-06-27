@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class id.adr.mobile.moviesbyparkee.presentation.favorite.FavoriteViewModel

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="id.adr.mobile.moviesbyparkee.presentation.home.HomeViewModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-06-27T00:30:25.158Z" hostname="air-mco-2.supporting.corp.bankmandiri.co.id" time="0.032">
+  <properties/>
+  <testcase name="getMovies should update uiState with results from use cases" classname="id.adr.mobile.moviesbyparkee.presentation.home.HomeViewModelTest" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

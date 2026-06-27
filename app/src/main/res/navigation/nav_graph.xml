@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/HomeFragment">
+
+    <fragment
+        android:id="@+id/HomeFragment"
+        android:name="id.adr.mobile.moviesbyparkee.presentation.home.HomeFragment"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_home_fragment_to_favorite_fragment"
+            app:destination="@id/FavoriteFragment" />
+    </fragment>
+
+    <action
+        android:id="@+id/action_global_to_detail_fragment"
+        app:destination="@id/DetailFragment" />
+
+    <fragment
+        android:id="@+id/DetailFragment"
+        android:name="id.adr.mobile.moviesbyparkee.presentation.detail.DetailFragment"
+        tools:layout="@layout/fragment_detail">
+    </fragment>
+
+    <fragment
+        android:id="@+id/FavoriteFragment"
+        android:name="id.adr.mobile.moviesbyparkee.presentation.favorite.FavoriteFragment"
+        tools:layout="@layout/fragment_favorite">
+    </fragment>
+</navigation>

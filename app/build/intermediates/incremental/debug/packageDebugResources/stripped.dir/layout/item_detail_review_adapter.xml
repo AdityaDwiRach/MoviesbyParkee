@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_item_detail_review_author"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:layout_marginTop="@dimen/spacing_8dp"
+        android:textSize="@dimen/subtitle_size"
+        android:textStyle="bold"
+        tools:text="Author" />
+
+    <TextView
+        android:id="@+id/tv_item_detail_review_overview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_8dp"
+        android:ellipsize="end"
+        android:maxLines="4"
+        android:textSize="@dimen/description_size"
+        tools:text="@string/lorem_ipsum" />
+
+</LinearLayout>

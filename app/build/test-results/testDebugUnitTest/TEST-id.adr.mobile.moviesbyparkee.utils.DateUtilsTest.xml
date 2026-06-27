@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="id.adr.mobile.moviesbyparkee.utils.DateUtilsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-06-27T00:30:25.206Z" hostname="air-mco-2.supporting.corp.bankmandiri.co.id" time="0.005">
+  <properties/>
+  <testcase name="toDateTimeDisplay should handle different output patterns" classname="id.adr.mobile.moviesbyparkee.utils.DateUtilsTest" time="0.005"/>
+  <testcase name="toDateTimeDisplay should return current year for invalid date string" classname="id.adr.mobile.moviesbyparkee.utils.DateUtilsTest" time="0.0"/>
+  <testcase name="toDateTimeDisplay should format valid date string correctly" classname="id.adr.mobile.moviesbyparkee.utils.DateUtilsTest" time="0.0"/>
+  <testcase name="toDateTimeDisplay should return current year for empty date string" classname="id.adr.mobile.moviesbyparkee.utils.DateUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

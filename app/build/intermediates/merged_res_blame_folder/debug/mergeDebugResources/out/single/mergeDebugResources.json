@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_item_home_backdrop_adapter.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/item_home_backdrop_adapter.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/drawable_ic_back.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/menu_menu_main.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/menu/menu_main.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/drawable_ic_share.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_fragment_home.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_fragment_favorite.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_item_favorite_adapter.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/item_favorite_adapter.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/drawable_ic_favorite_off.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/drawable/ic_favorite_off.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/xml_data_extraction_rules.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_fragment_detail.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_item_home_summary_adapter.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/item_home_summary_adapter.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/xml_backup_rules.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_activity_main.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/layout_item_detail_review_adapter.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/layout/item_detail_review_adapter.xml"
+    },
+    {
+        "merged": "id.adr.mobile.moviesbyparkee.app-debug-54:/drawable_ic_favorite_on.xml.flat",
+        "source": "id.adr.mobile.moviesbyparkee.app-main-56:/drawable/ic_favorite_on.xml"
+    }
+]

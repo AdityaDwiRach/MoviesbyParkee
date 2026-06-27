@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="id.adr.mobile.moviesbyparkee.presentation.detail.DetailViewModelTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-06-27T00:30:23.722Z" hostname="air-mco-2.supporting.corp.bankmandiri.co.id" time="1.408">
+  <properties/>
+  <testcase name="toggleFavorite from favorite should call deleteFavoriteUseCase" classname="id.adr.mobile.moviesbyparkee.presentation.detail.DetailViewModelTest" time="1.393"/>
+  <testcase name="toggleFavorite from not favorite should call insertFavoriteUseCase" classname="id.adr.mobile.moviesbyparkee.presentation.detail.DetailViewModelTest" time="0.008"/>
+  <testcase name="getMovieReview should update uiState with results and check favorite status" classname="id.adr.mobile.moviesbyparkee.presentation.detail.DetailViewModelTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
